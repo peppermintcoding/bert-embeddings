@@ -2,3 +2,5 @@ transformers
 jupyter
 torch
 sentence-transformers
+sklearn
+seaborn
