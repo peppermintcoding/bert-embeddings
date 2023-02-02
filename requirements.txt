@@ -4,3 +4,5 @@ torch
 sentence-transformers
 sklearn
 seaborn
+datasets
+imageio
